@@ -13,4 +13,5 @@ A bucket list for Los Angeles. This is a list of all the things I'd like to do i
 On 10-22-2016  
 
 My Coach: Vedika
+
 My Pair: Erika
